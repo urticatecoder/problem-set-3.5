@@ -10,3 +10,27 @@ table{
   text-align:center;
   background-color: #69bed3
 }
+
+td{
+text-align:center;
+}
+
+img{
+  width: 100%
+}
+
+footer{
+  border-top: 5px dotted blue;
+}
+
+.ps4img{
+  width: 70%
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  font-weight: bold;
+}
