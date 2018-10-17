@@ -11,6 +11,10 @@ table{
   background-color: #69bed3
 }
 
+.homepg{
+  font-family: Comic sans MS
+}
+
 td{
 text-align:center;
 }
@@ -23,7 +27,7 @@ footer{
   border-top: 5px dotted blue;
 }
 
-.ps4img{
+#ps4img{
   width: 70%
 }
 
