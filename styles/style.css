@@ -12,7 +12,11 @@ table{
 }
 
 .homepg{
-  font-family: Comic sans MS
+  font-family: Comic sans MS;
+}
+
+.footer{
+  font-family: verdana;
 }
 
 td{
