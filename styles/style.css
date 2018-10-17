@@ -24,7 +24,7 @@ text-align:center;
 }
 
 img{
-  width: 100%
+  width: 100%;
 }
 
 footer{
@@ -32,8 +32,26 @@ footer{
 }
 
 #ps4img{
-  width: 70%
+  width: 70%;
 }
+
+#ninlist{
+  font-family: cursive;
+}
+
+#ps4list{
+  font-family: Trebuchet MS;
+}
+
+#pclist{
+  font-family: Geneva;
+}
+
+#xb1list{
+  font-family: Courier New;
+}
+
+
 
 h1{
   text-align: center;
